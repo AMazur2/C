@@ -1,0 +1,5 @@
+Projekt2 - program którego za zadanie jest uporządkować tablicę imion i nazwisk pracowników.
+Pozostałe pliki należą do kolejnego projektu. Głównym zadaniem było stworzyć pierścień dwukierunkowy zawierający struktury Song. 
+Pliki Song zawierają wszystko związane z dodawaniem, usuwaniem, zapisem, wyczyszczeniem struktury.
+Pliki UI zajmóją się obsługą interfejsu użytkownika
+Pliki Enterp obsługują parametry wejścia.
